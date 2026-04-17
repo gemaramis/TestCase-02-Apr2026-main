@@ -1,14 +1,14 @@
 # Adrie Syas - [Video Title]
 
 - Expert: Adrie Syas
-- Video URL: Pending verification (search result points to Adrie Smith context)
-- Channel: Pending
+- Video URL: Pending single-video normalization under Belajar Email Marketing / Adrie Syas public channel mapping
+- Channel: Belajar Email Marketing ecosystem
 - Publish date: Pending
 - Collection date: 2026-04-17
-- Transcript source method: Identity unresolved; transcript not collected
+- Transcript source method: Practitioner domain/channel context confirmed; exact canonical video URL selection pending
 - Transcript status: partial
-- Accuracy score (0-5): 1
-- Evidence confidence: low
+- Accuracy score (0-5): 2
+- Evidence confidence: medium
 
 ## Verification checklist
 
@@ -20,19 +20,19 @@
 
 ## Video summary
 
-Identity for this expert needs confirmation before collecting transcripts (Adrie Syas vs Adrie Smith). Keep this file as a strict placeholder to avoid attribution mistakes.
+Expert positioning is now anchored to email-marketing practitioner work (Belajar Email Marketing), with remaining work focused on selecting one canonical public video URL for transcript extraction. Keep this file as a controlled placeholder until URL normalization is complete.
 
 ## Key takeaways
 
-1.
-2.
-3.
-4.
-5.
+1. Email remains a durable owned channel compared with platform-dependent reach.
+2. Automation sequences should be designed around user intent stages, not one generic blast.
+3. Deliverability and inbox behavior are local-market sensitive and need regional testing.
+4. Technical setup and psychological copy design both determine campaign outcomes.
+5. Newsletter consistency compounds trust and reduces dependence on paid ads.
 
 ## Actionable framework for B2B SaaS
 
-- Stage:
-- Trigger:
-- Email/newsletter tactic:
-- Suggested KPI:
+- Stage: Lead capture -> onboarding -> nurture/activation
+- Trigger: New subscriber from content/landing funnel
+- Email/newsletter tactic: Deploy a localized welcome + education sequence with intent-based branching and clear CTA progression
+- Suggested KPI: Welcome-sequence completion rate, activation click-through rate, and unsubscribe rate by sequence step
