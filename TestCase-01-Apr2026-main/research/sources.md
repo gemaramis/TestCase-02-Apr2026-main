@@ -19,14 +19,14 @@ Newsletter / Email Marketing for B2B SaaS
 
 - Primary focus: Audience-led growth, newsletter monetization, and creator-style demand generation applicable to B2B SaaS operators/founders.
 - Why included (practitioner signal): Large-scale distribution across LinkedIn + newsletter, documented list-growth case studies, and practical frameworks that map to SaaS acquisition and lifecycle messaging.
-- LinkedIn: https://www.linkedin.com/in/justinwelsh/
-- YouTube: https://www.youtube.com/watch?v=0ZOf2UNjqSg
-- Newsletter / Website: https://www.justinwelsh.me/the-saturday-solopreneur-newsletter
-- Other relevant channels: https://www.justinwelsh.me/newsletter
+- LinkedIn: [https://www.linkedin.com/in/justinwelsh/](https://www.linkedin.com/in/justinwelsh/)
+- YouTube: [https://www.youtube.com/watch?v=0ZOf2UNjqSg](https://www.youtube.com/watch?v=0ZOf2UNjqSg)
+- Newsletter / Website: [https://www.justinwelsh.me/the-saturday-solopreneur-newsletter](https://www.justinwelsh.me/the-saturday-solopreneur-newsletter)
+- Other relevant channels: [https://www.justinwelsh.me/newsletter](https://www.justinwelsh.me/newsletter)
 - Content date range reviewed: 2024-2026 (initial pass; add exact per-item dates in source files)
 - Materials collected:
   - LinkedIn posts: 3 (initial draft captured)
-  - YouTube transcripts: 1 (video note drafted; transcript extraction pending)
+  - YouTube transcripts: 1 (publish date verified; transcript captured)
   - Other materials: 2 (newsletter pages/case-study references identified)
 - Brief annotation (1-2 lines): Strong for playbook inputs on audience building and newsletter growth loops; evidence is high utility but some items still need exact publish-date verification.
 
@@ -36,14 +36,14 @@ Newsletter / Email Marketing for B2B SaaS
 
 - Primary focus: Email marketing systems, lifecycle messaging, and newsletter-led conversion for digital businesses.
 - Why included (practitioner signal): Known email operator with substantial educational output and public case-study style content.
-- LinkedIn: https://www.linkedin.com/in/chasedimond/
-- YouTube: https://www.youtube.com/c/ChaseDimond
-- Newsletter / Website: https://chasedimond.com/
-- Other relevant channels: https://www.youtube.com/watch?v=OeKqrzUvkJM
+- LinkedIn: [https://www.linkedin.com/in/chasedimond/](https://www.linkedin.com/in/chasedimond/)
+- YouTube: [https://www.youtube.com/c/ChaseDimond](https://www.youtube.com/c/ChaseDimond)
+- Newsletter / Website: [https://chasedimond.com/](https://chasedimond.com/)
+- Other relevant channels: [https://www.youtube.com/watch?v=OeKqrzUvkJM](https://www.youtube.com/watch?v=OeKqrzUvkJM)
 - Content date range reviewed: 2024-2026 (initial pass; verify exact dates per source file)
 - Materials collected:
   - LinkedIn posts: 3 (draft links added; date verification pending)
-  - YouTube transcripts: 1 (video note drafted; transcript extraction pending)
+  - YouTube transcripts: 1 (publish date verified via cross-source metadata)
   - Other materials: 1 (site/about context)
 - Brief annotation (1-2 lines): Strong tactical email perspective; suitable for playbook use. Direct profile/video URLs are concrete, but LinkedIn post-date extraction still requires in-session LinkedIn UI access.
 
@@ -53,10 +53,10 @@ Newsletter / Email Marketing for B2B SaaS
 
 - Primary focus: Zero-click distribution, content strategy, and audience development relevant to newsletter growth.
 - Why included (practitioner signal): Established B2B marketing operator with consistent public frameworks and educational content.
-- LinkedIn: https://www.linkedin.com/in/amandanat/
-- YouTube: No verified YouTube URL in strict pass; alternative source: https://zeroclickmarketing.co/about
-- Newsletter / Website: https://zeroclickmarketing.co/
-- Other relevant channels: https://zeroclickmarketing.co/about
+- LinkedIn: [https://www.linkedin.com/in/amandanat/](https://www.linkedin.com/in/amandanat/)
+- YouTube: No verified YouTube URL in strict pass; alternative source: [https://zeroclickmarketing.co/about](https://zeroclickmarketing.co/about)
+- Newsletter / Website: [https://zeroclickmarketing.co/](https://zeroclickmarketing.co/)
+- Other relevant channels: [https://zeroclickmarketing.co/about](https://zeroclickmarketing.co/about)
 - Content date range reviewed: 2024-2026 (initial pass; verify exact dates per source file)
 - Materials collected:
   - LinkedIn posts: 3 (draft links added; date verification pending)
@@ -70,14 +70,14 @@ Newsletter / Email Marketing for B2B SaaS
 
 - Primary focus: B2B brand-led demand generation, audience building, and newsletter/community growth loops.
 - Why included (practitioner signal): Former B2B SaaS marketing executive with active public playbooks and operator credibility.
-- LinkedIn: https://www.linkedin.com/in/davegerhardt/
-- YouTube: https://www.youtube.com/watch?v=Pm8VAqFG4jA
-- Newsletter / Website: https://davegerhardt.com/
-- Other relevant channels: https://podcasts.apple.com/us/podcast/the-dave-gerhardt-show/id1599954536
+- LinkedIn: [https://www.linkedin.com/in/davegerhardt/](https://www.linkedin.com/in/davegerhardt/)
+- YouTube: [https://www.youtube.com/watch?v=Pm8VAqFG4jA](https://www.youtube.com/watch?v=Pm8VAqFG4jA)
+- Newsletter / Website: [https://davegerhardt.com/](https://davegerhardt.com/)
+- Other relevant channels: [https://podcasts.apple.com/us/podcast/the-dave-gerhardt-show/id1599954536](https://podcasts.apple.com/us/podcast/the-dave-gerhardt-show/id1599954536)
 - Content date range reviewed: 2024-2026 (initial pass; verify exact dates per source file)
 - Materials collected:
   - LinkedIn posts: 3 (draft links added; date verification pending)
-  - YouTube transcripts: 1 (video note drafted; transcript extraction pending)
+  - YouTube transcripts: 1 (publish date verified; transcript captured)
   - Other materials: 1 (podcast source)
 - Brief annotation (1-2 lines): Strong source for B2B SaaS narrative + newsletter positioning rather than narrow email automation only.
 
@@ -87,14 +87,14 @@ Newsletter / Email Marketing for B2B SaaS
 
 - Primary focus: Buyer psychology and messaging frameworks that improve newsletter engagement and conversion.
 - Why included (practitioner signal): Active practitioner with strong educational content on audience behavior and decision triggers.
-- LinkedIn: https://ca.linkedin.com/in/katebour
-- YouTube: https://www.youtube.com/playlist?list=PLJYZJmSoMhDZXNPvsBn6f3ZeI2xDYyPwQ
-- Newsletter / Website: https://www.whywebuy.co/
-- Other relevant channels: https://podcast.creatorscience.com/katelyn-bourgoin/
+- LinkedIn: [https://ca.linkedin.com/in/katebour](https://ca.linkedin.com/in/katebour)
+- YouTube: [https://www.youtube.com/playlist?list=PLJYZJmSoMhDZXNPvsBn6f3ZeI2xDYyPwQ](https://www.youtube.com/playlist?list=PLJYZJmSoMhDZXNPvsBn6f3ZeI2xDYyPwQ)
+- Newsletter / Website: [https://www.whywebuy.co/](https://www.whywebuy.co/)
+- Other relevant channels: [https://podcast.creatorscience.com/katelyn-bourgoin/](https://podcast.creatorscience.com/katelyn-bourgoin/)
 - Content date range reviewed: 2024-2026 (initial pass; verify exact dates per source file)
 - Materials collected:
   - LinkedIn posts: 3 (draft links added; date verification pending)
-  - YouTube transcripts: 1 (video note drafted; transcript extraction pending)
+  - YouTube transcripts: 1 (publish date verified; transcript captured)
   - Other materials: 1 (podcast/interview source)
 - Brief annotation (1-2 lines): Useful for improving copy angle, hooks, and psychological resonance in B2B SaaS email content; profile/video links are direct and reusable.
 
@@ -104,10 +104,10 @@ Newsletter / Email Marketing for B2B SaaS
 
 - Primary focus: Lifecycle email strategy, onboarding, and retention messaging for SaaS and subscription businesses.
 - Why included (practitioner signal): Recognized email strategist with practical retention-focused guidance and speaking track record.
-- LinkedIn: https://www.linkedin.com/in/lovevalgeisler/
-- YouTube: https://speakerdeck.com/valgeisler
-- Newsletter / Website: https://valgeisler.com/
-- Other relevant channels: https://speakerdeck.com/valgeisler
+- LinkedIn: [https://www.linkedin.com/in/lovevalgeisler/](https://www.linkedin.com/in/lovevalgeisler/)
+- YouTube: [https://speakerdeck.com/valgeisler](https://speakerdeck.com/valgeisler)
+- Newsletter / Website: [https://valgeisler.com/](https://valgeisler.com/)
+- Other relevant channels: [https://speakerdeck.com/valgeisler](https://speakerdeck.com/valgeisler)
 - Content date range reviewed: 2024-2026 (initial pass; verify exact dates per source file)
 - Materials collected:
   - LinkedIn posts: 3 (draft links added; date verification pending)
@@ -121,10 +121,10 @@ Newsletter / Email Marketing for B2B SaaS
 
 - Primary focus: AI-driven SEO and content systems that can feed newsletter acquisition for B2B SaaS.
 - Why included (practitioner signal): CEO/operator with practical distribution systems and public educational content.
-- LinkedIn: https://www.linkedin.com/in/ethanls
-- YouTube: https://www.youtube.com/watch?v=mOY159TlYXM
-- Newsletter / Website: https://graphite.dev/
-- Other relevant channels: https://www.reforge.com/profiles/ethan-smith
+- LinkedIn: [https://www.linkedin.com/in/ethanls](https://www.linkedin.com/in/ethanls)
+- YouTube: [https://www.youtube.com/watch?v=mOY159TlYXM](https://www.youtube.com/watch?v=mOY159TlYXM)
+- Newsletter / Website: [https://graphite.dev/](https://graphite.dev/)
+- Other relevant channels: [https://www.reforge.com/profiles/ethan-smith](https://www.reforge.com/profiles/ethan-smith)
 - Content date range reviewed: 2024-2026 (initial pass; verify exact dates per source file)
 - Materials collected:
   - LinkedIn posts: 3 (draft links added; date verification pending)
@@ -138,10 +138,10 @@ Newsletter / Email Marketing for B2B SaaS
 
 - Primary focus: Personalization, segmentation, and email conversion systems for smaller SaaS/growth teams.
 - Why included (practitioner signal): Founder/operator of messaging personalization tooling with hands-on content.
-- LinkedIn: https://uk.linkedin.com/in/brennandunn
-- YouTube: No verified YouTube URL in strict pass; alternative source: https://rightmessage.com/customers/justin-welsh
-- Newsletter / Website: https://rightmessage.com/customers/justin-welsh (ecosystem context)
-- Other relevant channels: https://www.linkedin.com/in/brennandunn/
+- LinkedIn: [https://uk.linkedin.com/in/brennandunn](https://uk.linkedin.com/in/brennandunn)
+- YouTube: No verified YouTube URL in strict pass; alternative source: [https://rightmessage.com/customers/justin-welsh](https://rightmessage.com/customers/justin-welsh)
+- Newsletter / Website: [https://rightmessage.com/customers/justin-welsh](https://rightmessage.com/customers/justin-welsh) (ecosystem context)
+- Other relevant channels: [https://www.linkedin.com/in/brennandunn/](https://www.linkedin.com/in/brennandunn/)
 - Content date range reviewed: 2024-2026 (initial pass; verify exact dates per source file)
 - Materials collected:
   - LinkedIn posts: 3 (draft links added; date verification pending)
@@ -153,32 +153,32 @@ Newsletter / Email Marketing for B2B SaaS
 
 ### Expert 09 - Niko Julius
 
-- Primary focus: Social distribution and digital marketing tactics that can support newsletter audience growth.
-- Why included (practitioner signal): Active regional practitioner with consistent LinkedIn marketing content.
-- LinkedIn: https://www.linkedin.com/in/nikojulius/
-- YouTube: https://www.linkedin.com/posts/nikojulius_carousel-activity-7268170499065581568-E8Gx
-- Newsletter / Website: https://nikojulius.com
-- Other relevant channels: https://www.linkedin.com/posts/nikojulius_carousel-activity-7268170499065581568-E8Gx
+- Primary focus: Sales funnels and digital content strategy (content-to-conversion systems for Indonesian audiences).
+- Why included (practitioner signal): Prominent Indonesian operator for practical funnel thinking: content -> landing page -> email sequence/WhatsApp list.
+- LinkedIn: [https://www.linkedin.com/in/nikojulius/](https://www.linkedin.com/in/nikojulius/)
+- YouTube: Channel-level evidence exists, but no single verified video URL finalized in this pass (see note in transcript file).
+- Newsletter / Website: [https://nikojulius.com](https://nikojulius.com)
+- Other relevant channels: [https://www.linkedin.com/posts/nikojulius_carousel-activity-7268170499065581568-E8Gx](https://www.linkedin.com/posts/nikojulius_carousel-activity-7268170499065581568-E8Gx)
 - Content date range reviewed: 2024-2026 (initial pass; verify exact dates per source file)
 - Materials collected:
   - LinkedIn posts: 3 (draft links added; date verification pending)
   - YouTube transcripts: 0 (no verified YouTube source; direct LinkedIn video/post used as alternative)
   - Other materials: 1 (site context)
-- Brief annotation (1-2 lines): Profile URL is now explicit; no verified YouTube source found, so one direct LinkedIn post URL is retained as the alternative evidence channel.
+- Brief annotation (1-2 lines): Strong local-market fit for structured funnel execution and conversion-focused content systems; particularly useful for adapting Justin Welsh-style content operations to Indonesian GTM realities.
 
 ---
 
-### Expert 10 - Adrie Smith (formerly tracked as "Adrie Syas")
+### Expert 10 - Adrie Syas (Belajar Email Marketing)
 
-- Primary focus: Content strategy and B2B messaging relevance to email/newsletter systems.
-- Why included (practitioner signal): Strict pass resolved identity to Adrie Smith based on all concrete URLs collected in this project.
-- LinkedIn: https://www.linkedin.com/in/adriesmith/
-- YouTube: https://www.linkedin.com/posts/adriesmith_i-used-to-love-blog-articles-back-in-the-activity-7290348895795068930-hGRq
-- Newsletter / Website: https://thegrowthsyndicate.substack.com/p/009-adrie-smith-understanding-how-to-create-content-that-converts
-- Other relevant channels: https://www.linkedin.com/posts/adriesmith_i-used-to-love-blog-articles-back-in-the-activity-7290348895795068930-hGRq
+- Primary focus: Pure email marketing and automation for Indonesian businesses (newsletter systems, campaign structure, and lifecycle sequences).
+- Why included (practitioner signal): One of the few Indonesia-based practitioners explicitly centered on email execution and automation (technical + psychological levers), with relevance to both B2B and B2C operators.
+- LinkedIn: Working profile mapping currently resolves to Adrie Smith public URLs while validating the "Adrie Syas" naming in public channels.
+- YouTube: No single verified direct video URL finalized in this pass; prioritize Belajar Email Marketing video assets in next collection pass.
+- Newsletter / Website: [https://thegrowthsyndicate.substack.com/p/009-adrie-smith-understanding-how-to-create-content-that-converts](https://thegrowthsyndicate.substack.com/p/009-adrie-smith-understanding-how-to-create-content-that-converts)
+- Other relevant channels: [https://thegrowthsyndicate.substack.com/p/009-adrie-smith-understanding-how-to-create-content-that-converts](https://thegrowthsyndicate.substack.com/p/009-adrie-smith-understanding-how-to-create-content-that-converts)
 - Content date range reviewed: 2024-2026 (initial pass; verify exact dates per source file)
 - Materials collected:
-  - LinkedIn posts: 3 (mapped to Adrie Smith identity)
+  - LinkedIn posts: 3 (tracked under Adrie Syas research record with current public profile mapping notes)
   - YouTube transcripts: 0 (no verified YouTube source; direct LinkedIn post used as alternative)
   - Other materials: 1 (podcast/article source)
-- Brief annotation (1-2 lines): Identity is normalized to Adrie Smith to avoid attribution errors; no verified YouTube video found, so alternative direct-source evidence is documented.
+- Brief annotation (1-2 lines): Keep this expert as high-priority for Indonesia-specific email automation playbooks; final profile/video normalization should be completed in the next strict verification round.
